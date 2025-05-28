@@ -34,7 +34,7 @@ Necessário obter o __compilador GCC C++__ para assim utilizar a linguagem de pr
   cd desafio-cadastro-das-cartas-no-super-trunfo-YtalloXD
 ```
 
-* Clique em "Run C/C++ File"
+* Clique em "Run C/C++ File" no arquivo "super_trunfo.c"
 
 Feito!
 
